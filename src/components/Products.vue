@@ -1,3 +1,14 @@
+
+
+
+
+
+
+
+
+
+
+
 <template>
   <div class="products-page">
     <h2 class="text-2xl font-bold mb-4">All Products</h2>
